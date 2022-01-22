@@ -1,0 +1,16 @@
+body{
+    z-index: 1;
+
+
+
+}
+.popup{
+    border-color: #61dafb ;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
